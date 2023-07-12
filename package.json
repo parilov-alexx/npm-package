@@ -1,0 +1,13 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "entry point": "index.js",
+  "scripts": {
+    "test command": " ",
+    "git repository": "git@github.com:parilov-alexx/npm-package.git"
+  },
+  "keywords": ["game"],
+  "author": "parilov-alexx",
+  "license": "ISC"
+}
